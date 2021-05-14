@@ -1,8 +1,8 @@
 ### Hello there 👋
 
-- 🔭 I’m currently working on Virtual Reality and Reinforcement Learning within the scope of my MSc Thesis.
-- 🌱 I’m currently learning RL algorithms.
+- 🔭  I’m currently learning Deep Reinforcement Learning algorithms.
 - 💬 Ask me about Computer Graphics topics.
+- 🏫 Dropped out of Master's program 
 <!--
 **NeziheSozen/nezihesozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
