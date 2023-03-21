@@ -3,8 +3,10 @@
 - 🔭  I’m currently learning Deep Reinforcement Learning Algorithms and Blockchain
 - 💬 Ask me about Computer Graphics topics.
 - 🏫 Dropped out of Master's program (from Computer Animation and Game Technologies Program)
-- 👯 I’m looking to collaborate on learnopengl.com translation team
+- 👯 I’m looking to collaborate on learnopengl.com Turkish translation team
 - ☕ Don't buy me a coffee! Instead, please, donate for <a href="https://www.tema.org.tr/en" title="TEMA Foundation"><img height="26px" src="https://github.com/NeziheSozen/nezihesozen/raw/master/tema-logo.png" /></a> 
+
+---
 
 <h3>I experienced with:</h3>
 <p> Programming Languages</p>
@@ -82,6 +84,8 @@
   <img alt="Redis"  src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 <div align="center">
+
+---
 <p align="center">Let's connect!</p>
 
 <a href="https://www.linkedin.com/in/nezihesozen/">
@@ -91,13 +95,18 @@
     <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/ 
 </a>
 
-<a href= "https://medium.com/@nezihe.sozen">
+<a href= "https://www.kaggle.com/nezihesozen">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/ 
 </a>
 
+<a href= "https://www.goodreads.com/user/show/65216795-nezihe-s-zen">
+    <img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213"/ 
+</a>
+
+
 </div>
 
-
+---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeziheSozen&color=green" alt="NeziheSozen" /> </p>
 <!--
