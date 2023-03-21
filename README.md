@@ -103,6 +103,11 @@
     <img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213"/ 
 </a>
 
+<a href= "">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/ 
+</a>
+
+
 
 </div>
 
