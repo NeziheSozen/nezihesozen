@@ -103,35 +103,7 @@
   <img alt="Jenkins" src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" /> 
 </p>
 
-
 ---
-<div align="center">
-
-<p align="center">Let's connect!</p>
-
-<a href="https://www.linkedin.com/in/nezihesozen/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /
-</a> 
-<a href= "https://medium.com/@nezihe.sozen">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/ 
-</a>
-
-<a href= "https://www.kaggle.com/nezihesozen">
-    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/ 
-</a>
-
-<a href= "https://www.goodreads.com/user/show/65216795-nezihe-s-zen">
-    <img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213"/ 
-</a>
-
-<a href= "">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/ 
-</a>
-
-</div>
-
----
-  
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/NeziheSozen"><img src="https://github-readme-stats.vercel.app/api?username=NeziheSozen&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NeziheSozen's GitHub stats" /></a>
@@ -139,6 +111,35 @@
 <a href="https://github.com/NeziheSozen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeziheSozen&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=NeziheSozen&color=green" alt="NeziheSozen" /> </p>
+
+---
+
+<div align="center">
+
+<p align="center">Let's connect!</p>
+
+<a href="https://www.linkedin.com/in/nezihesozen/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a> 
+<a href= "https://medium.com/@nezihe.sozen">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/ >
+</a>
+
+<a href= "https://www.kaggle.com/nezihesozen">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white"/ >
+</a>
+
+<a href= "https://www.goodreads.com/user/show/65216795-nezihe-s-zen">
+    <img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213"/ >
+</a>
+
+<a href= "">
+    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/ >
+</a>
+
+</div>
+  
+
 <!--
 **NeziheSozen/nezihesozen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
