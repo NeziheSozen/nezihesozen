@@ -2,7 +2,7 @@
 
 - 🔭  I’m currently learning Deep Reinforcement Learning Algorithms and Blockchain
 - 💬 Ask me about Computer Graphics topics.
-- 🏫 Dropped out of Master's program (from Computer Animation and Game Technologies Program)
+- 🏫 Master's program (from Computer Animation and Game Technologies Program)
 - 👯 I’m looking to collaborate on learnopengl.com Turkish translation team
 - ☕ Don't buy me a coffee! Instead, please, donate for <a href="https://www.tema.org.tr/en" title="TEMA Foundation"><img height="26px" src="https://github.com/NeziheSozen/nezihesozen/raw/master/tema-logo.png" /></a> 
 
