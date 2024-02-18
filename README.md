@@ -96,6 +96,8 @@
 ---
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [3D Modelleme Dosya Biçimleri — Bölüm 2](https://medium.com/@nezihe.sozen/3d-modelleme-dosya-bi%C3%A7imleri-b%C3%B6l%C3%BCm-2-301e14e3dab9?source=rss-ada6cfc68027------2)
+- [3D Modelleme Dosya Biçimleri — Bölüm 1](https://medium.com/@nezihe.sozen/3d-modelleme-dosya-bi%C3%A7imleri-b%C3%B6l%C3%BCm-1-d71b80266c73?source=rss-ada6cfc68027------2)
 <!-- BLOG-POST-LIST:END -->
 
 ---
