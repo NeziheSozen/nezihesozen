@@ -1,13 +1,18 @@
 name: Update badges
 
 on:
-  workflow_dispatch: # run manually
+  schedule:
+    # Runs at 0am UTC every day
+    - cron: "0 0 * * *"
 jobs:
-  update-badges:
+  update-readme:
     name: Update Readme with badges
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@2.4.0
+        uses: pemtajo/badge-readme@main
         with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          COMMIT_MESSAGE: "My commit message to update badges"
+          CREDLY_USER: nezihe-sozen
           CREDLY_SORT: POPULAR
