@@ -103,6 +103,7 @@
 ---
 ## View my verified badges
 <!--START_SECTION:badges-->
+[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/0a7c9129-d4b1-4f6b-97f9-91a15bddb01c "AWS Cloud Quest: Cloud Practitioner")
 <!--END_SECTION:badges-->
 
 
