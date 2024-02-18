@@ -13,7 +13,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4.1.1
 
-      - uses: nezihesozen/readme-scribe@master
+      - uses: nezihesozen/nezihesozen@master
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_GITHUB_TOKEN }}
         with:
