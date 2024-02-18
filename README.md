@@ -46,7 +46,6 @@
 <p> 💾 Database </p>
 <p>
   <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img alt="Oracle" src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
   <img alt="Redis"  src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
@@ -71,6 +70,12 @@
   <img alt="Unity" src="https://img.shields.io/badge/unity-%23000000.svg?&style=for-the-badge&logo=unity&logoColor=white" />
   <img alt="Godot Engine" src="https://img.shields.io/badge/godot%20engine-%23478CBF.svg?&style=for-the-badge&logo=godot%20engine&logoColor=white" />
 </p>
+
+<p> My Badges </p>
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 
 <p>📋 Others</p>
 <p>
