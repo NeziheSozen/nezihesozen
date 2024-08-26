@@ -82,6 +82,8 @@
 ---
 ## View my verified badges
 <!--START_SECTION:badges-->
+[![Coursera GTC Statement of Accomplishment](https://images.credly.com/size/110x110/images/86bd5014-111c-4693-a1e1-43749c847cbd/83305.png)](http://www.credly.com/badges/295d8a85-ee73-4a86-8a4c-a8d9b204b74e "Coursera GTC Statement of Accomplishment")
+[![Professional Scrum Developer™ I (PSD I)](https://images.credly.com/size/110x110/images/d2298e82-b671-434a-876b-21a0ebc3af0e/image.png)](http://www.credly.com/badges/c810c461-4821-4faf-bc71-8734a1219405 "Professional Scrum Developer™ I (PSD I)")
 [![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/0a7c9129-d4b1-4f6b-97f9-91a15bddb01c "AWS Cloud Quest: Cloud Practitioner")
 <!--END_SECTION:badges-->
 
