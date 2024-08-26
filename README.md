@@ -2,10 +2,8 @@
 
 - 🔭  I’m currently learning Deep Reinforcement Learning Algorithms and Blockchain
 - 💬 Ask me about Computer Graphics topics.
-- 🏫 Master's program (from Computer Animation and Game Technologies Program)
+- 🏫 Master's program (from Computer Animation and Game Technologies Program -Dropped)
 - 👯 I’m looking to collaborate on learnopengl.com Turkish translation team
-- ☕ Don't buy me a coffee! Instead, please, donate for <a href="https://www.tema.org.tr/en" title="TEMA Foundation"><img height="26px" src="https://github.com/NeziheSozen/nezihesozen/raw/master/tema-logo.png" /></a> 
-
 ---
 
 <h3>Tech. Stacks</h3>
@@ -35,29 +33,10 @@
 
 </p>
 
-<p>🎛️ Operating System</p>
-<p>
-    <img alt="Debian" src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" />   
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
-</p>
 
-<p> 💾 Database </p>
-<p>
-  <img alt="SQLite" src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img alt="Redis"  src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />
-</p>
-
-<p>🕓 Version Control</p>
-<p>
-    <img alt="git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-    <img alt="bitbucket" src="https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white" />
-    <img alt="github" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-    <img alt="gitlab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />   
-</p>
 <p>🔗 Blockchain</p>
 <p>
   <img alt="Solidity" src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" />
-  <img alt="OpenSea" src="https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white" /> 
   <img alt="Ethereum" src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white" />
 
 </p>
