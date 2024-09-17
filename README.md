@@ -80,6 +80,8 @@ My portfolio website: https://nezihes.io/
 ---
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [3D Modeling File Formats — Part 2](https://medium.com/@nezihe.sozen/3d-modeling-file-formats-part-2-8b7db9c79d8d?source=rss-ada6cfc68027------2)
+- [3D Modeling File Formats — Part 1](https://medium.com/@nezihe.sozen/3d-modeling-file-formats-part-1-aa496217a9f6?source=rss-ada6cfc68027------2)
 - [3D Modelleme Dosya Biçimleri — Bölüm 2](https://medium.com/@nezihe.sozen/3d-modelleme-dosya-bi%C3%A7imleri-b%C3%B6l%C3%BCm-2-301e14e3dab9?source=rss-ada6cfc68027------2)
 - [3D Modelleme Dosya Biçimleri — Bölüm 1](https://medium.com/@nezihe.sozen/3d-modelleme-dosya-bi%C3%A7imleri-b%C3%B6l%C3%BCm-1-d71b80266c73?source=rss-ada6cfc68027------2)
 <!-- BLOG-POST-LIST:END -->
