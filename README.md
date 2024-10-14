@@ -2,7 +2,7 @@
 
 - 🔭  I’m currently learning Deep Reinforcement Learning Algorithms and Blockchain
 - 💬 Ask me about Computer Graphics topics.
-- 🏫 Master's program (from Computer Animation and Game Technologies Program -Dropped)
+- 🏫 Master of Science in Computer Science- University of Colorado Boulder (Sept 2024- Present)
 - 👯 I’m looking to collaborate on learnopengl.com Turkish translation team
   
 ---
@@ -16,6 +16,7 @@ My portfolio website: https://nezihes.io/
 <p> 
   <img alt="C++" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)" />
   <img alt="Python" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
   <img alt="WebAssembly" src="https://img.shields.io/badge/webassembly-%23654FF0.svg?&style=for-the-badge&logo=webassembly&logoColor=white" />
