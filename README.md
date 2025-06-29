@@ -100,15 +100,6 @@ My portfolio website: https://nezihes.io/
 
 
 ---
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/NeziheSozen"><img src="https://github-readme-stats.vercel.app/api?username=NeziheSozen&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="NeziheSozen's GitHub stats" /></a>
-
-<a href="https://github.com/NeziheSozen" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NeziheSozen&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=NeziheSozen&color=green" alt="NeziheSozen" /> </p>
-
----
 
 <div align="center">
 
@@ -127,10 +118,6 @@ My portfolio website: https://nezihes.io/
 
 <a href= "https://www.goodreads.com/user/show/65216795-nezihe-s-zen">
     <img src="https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213"/ >
-</a>
-
-<a href= "">
-    <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/ >
 </a>
 
 </div>
