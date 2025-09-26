@@ -3,7 +3,6 @@
 - 🔭  I’m currently learning Deep Reinforcement Learning Algorithms and Blockchain
 - 💬 Ask me about Computer Graphics topics.
 - 🏫 Master of Science in Computer Science- University of Colorado Boulder (Sept 2024- Present)
-- 👯 I’m looking to collaborate on learnopengl.com Turkish translation team
   
 ---
 
