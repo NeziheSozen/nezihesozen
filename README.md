@@ -90,11 +90,11 @@ My portfolio website: https://nezihes.io/
 ---
 ## View my verified badges
 <!--START_SECTION:badges-->
-[![Professional Scrum Master™ I (PSM I)](https://images.credly.com/size/110x110/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png)](http://www.credly.com/badges/61fb2815-1b59-46e6-9b3c-d044e7f45b75 "Professional Scrum Master™ I (PSM I)")
-[![Professional Scrum Product Owner™ I (PSPO I)](https://images.credly.com/size/110x110/images/591762c5-fae7-49c6-b326-e1756979928d/image.png)](http://www.credly.com/badges/83517aad-a6ce-4231-8313-f5a5c737f1c0 "Professional Scrum Product Owner™ I (PSPO I)")
-[![Coursera GTC Statement of Accomplishment](https://images.credly.com/size/110x110/images/86bd5014-111c-4693-a1e1-43749c847cbd/83305.png)](http://www.credly.com/badges/295d8a85-ee73-4a86-8a4c-a8d9b204b74e "Coursera GTC Statement of Accomplishment")
-[![Professional Scrum Developer™ I (PSD I)](https://images.credly.com/size/110x110/images/d2298e82-b671-434a-876b-21a0ebc3af0e/image.png)](http://www.credly.com/badges/c810c461-4821-4faf-bc71-8734a1219405 "Professional Scrum Developer™ I (PSD I)")
-[![AWS Cloud Quest: Cloud Practitioner](https://images.credly.com/size/110x110/images/2784d0d8-327c-406f-971e-9f0e15097003/image.png)](http://www.credly.com/badges/0a7c9129-d4b1-4f6b-97f9-91a15bddb01c "AWS Cloud Quest: Cloud Practitioner")
+<a href="https://www.credly.com/badges/61fb2815-1b59-46e6-9b3c-d044e7f45b75" title="Professional Scrum Master™ I (PSM I)"><img src="https://images.credly.com/size/80x80/images/a2790314-008a-4c3d-9553-f5e84eb359ba/image.png" alt="Professional Scrum Master™ I (PSM I)" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/83517aad-a6ce-4231-8313-f5a5c737f1c0" title="Professional Scrum Product Owner™ I (PSPO I)"><img src="https://images.credly.com/size/80x80/images/591762c5-fae7-49c6-b326-e1756979928d/image.png" alt="Professional Scrum Product Owner™ I (PSPO I)" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/c810c461-4821-4faf-bc71-8734a1219405" title="Professional Scrum Developer™ I (PSD I)"><img src="https://images.credly.com/size/80x80/images/d2298e82-b671-434a-876b-21a0ebc3af0e/image.png" alt="Professional Scrum Developer™ I (PSD I)" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/0a7c9129-d4b1-4f6b-97f9-91a15bddb01c" title="AWS Cloud Quest: Cloud Practitioner - Training Badge"><img src="https://images.credly.com/size/80x80/images/30816e43-2550-4e1c-be22-3f03c5573bb9/blob" alt="AWS Cloud Quest: Cloud Practitioner - Training Badge" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/295d8a85-ee73-4a86-8a4c-a8d9b204b74e" title="Coursera GTC Statement of Accomplishment"><img src="https://images.credly.com/size/80x80/images/86bd5014-111c-4693-a1e1-43749c847cbd/83305.png" alt="Coursera GTC Statement of Accomplishment" width="80" height="80"></a>
 <!--END_SECTION:badges-->
 
 
