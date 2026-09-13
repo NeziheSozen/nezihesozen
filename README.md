@@ -6,7 +6,7 @@
   
 ---
 
-My portfolio website: https://nezihes.io/
+My portfolio website: https://nezihes.pages.dev/
 
 ---
 
